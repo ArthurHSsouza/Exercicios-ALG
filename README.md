@@ -1,2 +1,2 @@
-# Exerc-cios-ALG
+# ExerciciosALG
 Exercícios ALG completos com Portugol
